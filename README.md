@@ -11,7 +11,7 @@ Place [youtube-search.lua](youtube-search.lua) and [ytbackend.py](ytbackend.py) 
 
 **If You are using [uosc](https://github.com/tomasklaen/uosc)**
 
-Place [youtube-search-uosc.lua](youtube-search-uosc.lua) and [ytbackend.py](ytbackend.py) in `~/.config/mpv/scripts/`.
+Place [youtube-search-uosc.lua](youtube-search-uosc.lua) and [youtube-search.lua](youtube-search.lua) in `~/.config/mpv/scripts/`.
 
 > [!NOTE]
 > Don't Place both `youtube-search-uosc.lua` and `ytbackend.py` in your $HOME/.config/scripts
