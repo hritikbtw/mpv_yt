@@ -5,16 +5,14 @@ Search and play YouTube videos inside mpv using the native selection UI.
 
 ## Installation
 
-**For Vanilla mpv**
-
 Place [youtube-search.lua](youtube-search.lua) and [ytbackend.py](ytbackend.py) in `~/.config/mpv/scripts/`.
 
-**If You are using [uosc](https://github.com/tomasklaen/uosc)**
-
-Place [youtube-search-uosc.lua](youtube-search-uosc.lua) and [youtube-search.lua](youtube-search.lua) in `~/.config/mpv/scripts/`.
+> **If You are using [uosc](https://github.com/tomasklaen/uosc)**
+> 
+> use [youtube-search-uosc.lua](youtube-search-uosc.lua) instead of  [youtube-search.lua](youtube-search.lua).
 
 > [!NOTE]
-> Don't Place both `youtube-search-uosc.lua` and `ytbackend.py` in your $HOME/.config/scripts
+> Don't Place both `youtube-search-uosc.lua` and `youtube-search.lua` in your $HOME/.config/scripts
 
 
 ## Keybinds
